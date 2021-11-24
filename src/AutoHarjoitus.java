@@ -15,7 +15,7 @@ public class AutoHarjoitus {
 		auto2.jarruta();
 		auto2.kiihdyta();
 		auto2.naytaTiedot();
-		auto2.tankkaa(0);
+		auto2.tankkaa(15);
 		
 	}
 
